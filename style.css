@@ -1,0 +1,24 @@
+#image {
+    border-radius: 50%;
+}
+
+.row {
+    display: flex;
+}
+
+.half {
+    flex: 50%;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+#ff{
+    margin-left: 200px;
+    margin-right: 200px;
+    height:50px;
+    text-align: center;
+}        
